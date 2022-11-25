@@ -1,0 +1,2 @@
+salu
+print("Hola mundo")
